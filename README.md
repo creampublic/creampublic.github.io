@@ -1,2 +1,0 @@
-# creampublic.github.io
-public
